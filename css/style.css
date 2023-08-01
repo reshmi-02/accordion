@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+/*.container{
+    width:50%;
+    margin:auto;
+}*/
+
+.row{
+    background-color: rgb(224, 34, 75);
+    padding:20px;
+}
+
+.content{
+    background-color: rgb(51, 233, 209);
+    padding:15px;
+}
+.accord{
+    padding:10px;
+}
+.accord-ques{
+    display: inline;
+    transition: all 01s linear;
+}
+i{
+    float:right;
+}
+p{
+    font-size: 20px;
+}
+.paras{
+    display:none;
+}
